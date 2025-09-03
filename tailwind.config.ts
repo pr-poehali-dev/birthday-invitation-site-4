@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				coral: '#FF6B6B',
+				mint: '#45B7D1', 
+				turquote: '#ECDIC4',
+				sunny: '#FFCEB4',
+				gallery: '#FFFFFF',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
